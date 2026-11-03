@@ -1,0 +1,10 @@
+1. Thuê 1 VPS để thực hành môn DEVOPS
+2. Học các câu lệnh làm việc với linux
+	- Tạo 1 tài khoản
+	- Add tài khoản vào 1 group
+	- Cấu hình keypair để đăng nhập vào VPS mà không cần nhập mật khẩu
+	- Các lệnh cơ bản làm việc với linux:
+		+ Tạo thư mục, xóa thư mục
+		+ Tạo file, lưu nội dung
+		+ Đọc file
+		...
